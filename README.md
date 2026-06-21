@@ -40,7 +40,7 @@
   &nbsp;
   <a href="https://atcoder.jp/users/car1y"><img src="https://atcoder-badge.kro.kr?id=car1y" alt="Atcoder" /></a>
 </div>
- ✍️ Problem Writer** | *2025 Daegu Software High School Programming Contest* 
+ ✍️ Problem Writer | 2025 Daegu Software High School Programming Contest (DPC 2025)
 
 ## 📊 GitHub Stats
 <div align="center">
