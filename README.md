@@ -7,11 +7,11 @@
 <br/>
 
 ## 🚀 About Me
-- 🎓 Integrate Master's & Ph.D. Student at **Korea University**
-- 🧠 Intersecting **Neuroscience** and **Programming** to understand complex human systems.
-- 💡 Exploring **general technical methodologies, scalable system building, and Machine Learning**.
-- 🔍 Currently deep-diving into **Self-Supervised Learning (SSL), Channel Selection in EEG**.
-- 🛠 Building robust pipelines and scalable applications to analyze complex, real-world data.
+- 🎓 M.S.-Ph.D. Integrated Student in Brain & Cognitive Engineering at **Korea University**
+- 🧠 Intersecting Data Science and Software Engineering to decode complex human systems.
+- 💡 Researching advanced machine learning methodologies, robust data processing, and scalable systems.
+- 🔍 Deep-diving into Large-Scale Clinical EHR, Multi-Modal Bio-Signals, and Advanced Representation Learning.
+- 🛠 Building automated pipelines and production-ready applications to solve real-world biomedical challenges.
 
 ## 💻 Tech Stack
 
