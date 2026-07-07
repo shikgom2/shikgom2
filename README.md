@@ -42,6 +42,10 @@
 </div>
  ✍️ Problem Writer | 2025 Daegu Software High School Programming Contest (DPC 2025)
 
+## 💻 Mentoring
+ 🏫 External Instructor, Daegu Software High School (Text Mining & AI)
+ 💻 Coach of the South Korea National Team for the 2026 International Olympiad in Artificial Intelligence (IOAI)
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shikgom2&show_icons=true&theme=tokyonight" width="48%" />
